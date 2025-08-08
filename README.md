@@ -6,4 +6,4 @@ I code in python
 # My Repos
 | Repo     | Description |
 | ---      | ---         |
-| [manimations](https://github.com/nozitation/manimations) | Things I made in manim| 
+| [manimations](https://github.com/nozitation/manimations--) | Things I made in manim| 
